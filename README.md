@@ -7,5 +7,7 @@ números, elabore programas de testes e de solução utilizando:
 Disponibilizem a solução no git. Pode ser em grupo, mas todos
 entregam
 Utilizem como referência:
+
 • https://github.com/GabrielGodoy01/bdd_example
+
 • https://github.com/GabrielGodoy01/tdd_example
